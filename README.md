@@ -1,0 +1,1 @@
+This Project is made entirely on 3-tier architecture based on C#. In this project I have used .net framework and this full fledged project will help users and admins make conatct to each other without accessing their files 
